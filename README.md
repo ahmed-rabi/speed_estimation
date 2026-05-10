@@ -34,7 +34,7 @@ A high-performance vehicle tracking and speed estimation system built with **YOL
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/speed-estimation-vehicle-tracking.git
+    git clone https://github.com/ahmed-rabi/speed-estimation-vehicle-tracking.git
     cd speed-estimation-vehicle-tracking
     ```
 
